@@ -2,7 +2,7 @@
 
 ### Aspiring Data Engineer | Computer Science Engineering Graduate
 
-![Profile Views](https://komarev.com/ghpvc/?username=MMAR4&label=PROFILE%20VIEWS&color=blueviolet&style=flat-square)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FMMAR4%2Fmmar4&leftColor=181717&rightColor=0e75b6&type=total&label=Profile%20Views&style=none)
 
 ---
 
