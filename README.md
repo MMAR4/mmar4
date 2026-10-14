@@ -1,8 +1,8 @@
-# Murtaza Mohammed Rafiqi
+<h1>Murtaza Mohammed Rafiqi</h1>
+
+<img align="right" src="https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FMMAR4%2Fmmar4&leftColor=181717&rightColor=0e75b6&type=total&label=Profile%20Views&style=none" alt="Profile Views" />
 
 ### Aspiring Data Engineer | Computer Science Engineering Graduate
-
-![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2FMMAR4%2Fmmar4&leftColor=181717&rightColor=0e75b6&type=total&label=Profile%20Views&style=none)
 
 ---
 
